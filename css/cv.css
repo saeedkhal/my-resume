@@ -120,6 +120,10 @@ body {
 .project-section ul li {
   text-transform: capitalize;
   list-style-type: none;
+  display: flex;
+}
+.project-section ul li span {
+  margin-left: 10px;
 }
 .bold {
   font-weight: bold;
