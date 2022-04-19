@@ -121,6 +121,7 @@ body {
   text-transform: capitalize;
   list-style-type: none;
   display: flex;
+  margin-top: 3px;
 }
 .project-section ul li span {
   margin-left: 10px;
