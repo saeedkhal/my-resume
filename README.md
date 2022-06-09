@@ -3,6 +3,9 @@
 to convert html file to pdf file 👇️
 
 1. install **wkhtmltopdf**
+   ```
+   npm install wkhtmltopdf
+   ```
 
    see the installation here [wkhtmltopdf-installation](https://computingforgeeks.com/install-wkhtmltopdf-on-ubuntu-debian-linux/)
 
