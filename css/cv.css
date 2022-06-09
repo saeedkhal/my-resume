@@ -79,7 +79,7 @@ body {
 .education-section-content li {
   text-transform: lowercase;
   font-size: var(--font-size-small);
-  padding: 7px;
+  padding: 7px 7px 0px 7px;
   text-transform: capitalize;
 }
 .education-section-content li span {
@@ -103,6 +103,9 @@ body {
 }
 .training-section-content {
   list-style-type: none;
+}
+.training-section-content li {
+  padding-top: 5px;
 }
 .training-section-content li .time-location {
   display: flex;
