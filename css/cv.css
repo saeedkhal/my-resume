@@ -139,3 +139,7 @@ body {
 .project-section h3 span {
   text-transform: capitalize;
 }
+.tools-container {
+  display: flex;
+  margin-left: 0px;
+}
