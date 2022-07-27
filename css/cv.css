@@ -51,7 +51,7 @@ body {
 .personal-info article {
   display: flex;
   align-items: center;
-  margin: 5px 0px;
+  margin-top: 5px;
 }
 .personal-info article i {
   font-size: var(--font-size-larg);
@@ -86,16 +86,16 @@ body {
   font-weight: bold;
 }
 .education-section-content {
-  padding: 0px 15px 0 10px;
+  padding: 10px 15px 0 10px;
 }
 
 .skills-section-content li {
   list-style-type: none;
   display: flex;
-  padding: 5px 0px;
+  padding-top: 5px;
 }
 .skills-section-content {
-  padding: 10px 10px 10px 0;
+  padding: 10px 0px 0px 0;
 }
 
 .skills-section-content li i {
