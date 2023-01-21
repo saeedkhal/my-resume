@@ -101,19 +101,13 @@ body {
 .skills-section-content li i {
   margin-right: 15px;
 }
-/* .skills-section-content li p{
-  display: flex;
-  row-gap: 5px;
-  column-gap: 10px;
-  flex-wrap: wrap;
-} */
 .skills-section-content li span span{
   border-radius: 10px;
   border: 1px solid #000;
   padding: 0px 6px;
   margin-top: 5px;
   display: inline-block;
-  background: #96969614;
+  background: whitesmoke;
 }
 .training-section-content {
   list-style-type: none;
