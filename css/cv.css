@@ -111,6 +111,7 @@ body {
 }
 .training-section-content {
   list-style-type: none;
+  margin-bottom: 27px;
 }
 .training-section-content li {
   padding-top: 17px;
@@ -150,4 +151,12 @@ body {
 .tools-container {
   display: flex;
   margin-left: 0px;
+}
+
+.my-website{
+  color: #000;
+  font-weight: 900;
+  text-decoration:underline;
+  font-size: large;
+  font-style: italic;
 }
