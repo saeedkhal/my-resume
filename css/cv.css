@@ -114,14 +114,14 @@ body {
   margin-bottom: 27px;
 }
 .training-section-content li {
-  padding-top: 17px;
+  padding-top: 15px;
 }
 .training-section-content li .time-location {
   display: flex;
   justify-content: space-between;
 }
 .academic-content {
-  margin-bottom: 27px;
+  margin-bottom: 18px;
   margin-top: 16px;
 }
 
