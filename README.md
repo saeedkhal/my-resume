@@ -13,7 +13,7 @@ to convert html file to pdf file 👇️
 2. put this line in terminal
 
 ```bash
-wkhtmltopdf -T 0 -B 0 --page-width 210mm --page-height 280mm --margin-left 0 --margin-right 0 cv.html Saeed_Khaled_CV_v2.pdf
+wkhtmltopdf --enable-local-file-access  -T 0 -B 0 --page-width 210mm --page-height 280mm --margin-left 0 --margin-right 0 cv.html Saeed_Khaled_CV.pdf
 ```
 
 ### to see more options :point_right: [wkhtmltopdf](https://wkhtmltopdf.org/usage/wkhtmltopdf.txt)
