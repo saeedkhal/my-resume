@@ -135,6 +135,7 @@ body {
 }
 .project-section {
   padding: 5px;
+  margin-bottom: 10px;
 }
 .project-section ul {
   list-style-position: inside;
@@ -152,7 +153,11 @@ body {
   font-weight: bold;
 }
 .project-desc {
+  text-transform :lowercase;
+}
+.project-desc::first-letter{
   text-transform: capitalize;
+
 }
 .project-section h3 span {
   text-transform: capitalize;
