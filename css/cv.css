@@ -26,7 +26,8 @@ body {
 }
 .col1 {
   flex-grow: 1;
-  max-width: 700px;
+  max-width: 750px;
+  min-width: 43%;
   border-right: 4px solid #000;
   padding-right: 20px;
 }
@@ -135,7 +136,10 @@ body {
 }
 .project-section {
   padding: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 7px;
+}
+.project-section:nth-of-type(1) {
+  padding: 1000px;
 }
 .project-section ul {
   list-style-position: inside;
@@ -178,13 +182,10 @@ body {
   display: none;
 }
 
-.projects-traning ul {
-  list-style: none;
-}
 .projects-traning li {
-  padding-top: 0px;
+  padding-top: 5px;
 }
 .projects-traning {
   margin-top: 10px;
-  margin-left: 18px;
+  margin-left: 32px;
 }
