@@ -178,3 +178,13 @@ body {
   display: none;
 }
 
+.projects-traning ul {
+  list-style: none;
+}
+.projects-traning li {
+  padding-top: 0px;
+}
+.projects-traning {
+  margin-top: 10px;
+  margin-left: 18px;
+}
